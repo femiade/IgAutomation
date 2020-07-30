@@ -1,2 +1,2 @@
-secret_name = 'fuji.felm'
-secret_pwd = 'femboss25'
+secret_name = ''
+secret_pwd = ''
