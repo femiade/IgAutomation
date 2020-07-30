@@ -7,12 +7,10 @@ from contextlib import closing
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from requests.exceptions import RequestException
+from secret import secret_name, secret_pwd
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
-
-secret_name = 'fuji.felm'
-secret_pwd = 'femboss25'
 
 class Instagram():
 
