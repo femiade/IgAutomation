@@ -75,7 +75,7 @@ class Instagram():
         """ Take list of users to unfollow and unfollow one by one
                     Checking to see if you already unfollow them or not
         """
-        # t    ry:
+        # try:
 
     #     self.browser.get(user)
     #     time.sleep(3)
