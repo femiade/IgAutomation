@@ -1,2 +1,2 @@
-secret_name = ''
-secret_pwd = ''
+secret_name = 'femtro'
+secret_pwd = 'femboss403'

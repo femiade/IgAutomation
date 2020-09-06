@@ -13,7 +13,9 @@ class Instagram():
 
     # def __init__(self) -> None:
     #     #Initialize a browser instance
-    browser = webdriver.Chrome()
+
+    browser = webdriver.Chrome('/Users/femboss/Python/selenium/webdriver/bin/chromedriver')
+    #browser = webdriver.Chrome()
 
     def login(self):
         # Log into the website
